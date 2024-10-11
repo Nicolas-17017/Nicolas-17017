@@ -6,7 +6,7 @@
   </p>
 <br>
 
-![Play, Sleep, Code, Repeat] (https://raw.githubusercontent.com/Nicolas-17017/Nicolas-17017/refs/heads/main/perfil.png)
+![Play, Sleep, Code, Repeat](https://raw.githubusercontent.com/Nicolas-17017/Nicolas-17017/refs/heads/main/perfil.png)
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
