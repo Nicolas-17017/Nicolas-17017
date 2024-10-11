@@ -124,22 +124,6 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
@@ -155,38 +139,6 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
 </p>
-
-<br> 
-
----
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
-
-
-
-
 
 
 
