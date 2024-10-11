@@ -1,11 +1,5 @@
 <h1 align="center">Hola 👋  soy Nicolas / Estudiante Universitario ✨ </h1> 
 
-<p align="left">
-<a href="https://linkedin.com/in/nicolas17017" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-<br>
-
 ![Play, Sleep, Code, Repeat](https://raw.githubusercontent.com/Nicolas-17017/Nicolas-17017/refs/heads/main/perfil.png)
 
 <h2>Sobre mi 😃</h2>
@@ -32,5 +26,12 @@
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 <h2>GitHub :octocat:</h2>
+
+<p align="left">
+<a href="https://linkedin.com/in/nicolas17017" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+  
 </p>        
 <!--- stats (end) -->
