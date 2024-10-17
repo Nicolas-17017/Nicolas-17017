@@ -14,6 +14,15 @@
   </p>
 <br>
 
+<h2 >Tecnologías Conocidad👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,js,git,github,vscode,ps&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
 <h2 >Tecnologías que estoy aprendiendo👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
@@ -23,6 +32,7 @@
 </p>
 <br>
 <!-------------------------->
+
 <div id="proyectos">
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 <h2>GitHub :octocat:</h2>
