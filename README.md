@@ -33,7 +33,7 @@
 <!-------------------------->
 
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Algunos proyectos 📝</h2>
 <h2>GitHub :octocat:</h2>
 
 <p align="left">
