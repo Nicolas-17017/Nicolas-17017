@@ -7,14 +7,12 @@
 
 <p align="left">
 🎓 ESTUDIANTE TECNOLOGICO EN DESARROLLO DE SOFTWARE
-💻 
-
 📫 Contacto: **nizata2006@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías Conocidad👨🏻‍💻</h2>
+<h2 >Tecnologías Conocidad 💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
