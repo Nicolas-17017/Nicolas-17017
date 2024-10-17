@@ -7,6 +7,7 @@
 
 <p align="left">
 🎓 ESTUDIANTE TECNOLOGICO EN DESARROLLO DE SOFTWARE
+  
 📫 Contacto: **nizata2006@gmail.com**
 <!--Intro end-->
   </p>
