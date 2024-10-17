@@ -34,7 +34,7 @@
 
 <div id="proyectos">
 <h2 >Algunos proyectos 📝</h2>
-<h2>GitHub :octocat:</h2>
+<h2>GitHub 💼 </h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/nicolas17017" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
